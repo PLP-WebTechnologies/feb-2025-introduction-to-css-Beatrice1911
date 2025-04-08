@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(143, 196, 243);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+nav{
+    text-align: center;
+    color: white;
+}
+
+nav a{
+    color: white;
+}
+
+h2{
+    font-size: 25px;
+}
+
+.recipes-container, .about-container{
+    color: #333;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.recipes-container img{
+    width: 500px;
+    height: 380px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+footer h2{
+    color: #333;
+}
+
+footer li{
+    color: white;
+    margin-bottom: 5px;
+}
+
+footer a{
+    color: white;
+}
+
+footer p{
+    text-align: center;
+}
